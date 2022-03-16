@@ -7,4 +7,5 @@ from ..models import User
 
 @main.route('/')
 def index():
-    return "Hello there"
+    
+    return render_template('index.html')

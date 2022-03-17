@@ -1,0 +1,46 @@
+*{
+    /* background-image: url(images/work.jpg); */
+    background-position: center;
+    background-position: inherit;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* color: white; */
+    
+}
+
+/* .home{
+    background-image: url(images/coffeebreak.jpg);
+} */
+
+
+.section-a{
+    background-image: url(images/workspace.jpg);
+    font-family: 'Inspiration', cursive;
+    color: darkblue;
+    font-weight: bolder;
+    text-align: center;
+    font-size: xxx-large;
+    height: 600px;
+
+}
+.section-a .container{
+    padding-top: 20%;
+}
+
+
+.section-b {
+    /* background-image: url(images/blankish.jpg); */
+    background-position: center;
+    height: 150px;
+    width: 100%;
+}
+.body .p{
+    font-family: 'Inspiration',sans-serif;
+}
+
+
+.section-contacts{
+    align-items: center;
+    padding-top: 2%;
+    text-align: center;
+}
